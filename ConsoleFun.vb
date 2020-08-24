@@ -22,7 +22,7 @@ Module ConsoleFun
         'Console.WriteLine(result)
         'Console.ReadLine()
 
-        'Console.Beep()
+        Console.Beep()
 
         Console.Beep(392, 500) 'G4'
         Console.Beep(440, 500) 'A4'
